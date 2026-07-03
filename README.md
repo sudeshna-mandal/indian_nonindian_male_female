@@ -49,7 +49,7 @@ Illustrates the confidence scores of the model across predictions.
 
 ---
 
-### 📉 Confusion Matrix
+###  Confusion Matrix
 
 Visualizes the classification performance for all four classes.
 
