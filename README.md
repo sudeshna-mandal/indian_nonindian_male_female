@@ -21,20 +21,36 @@ This project implements a Convolutional Neural Network (CNN) to classify facial 
 - CNN model training
 - Model evaluation
 - Multi-class image classification
-- ## Results
+## Results
 
-### Training Accuracy
+The trained model was evaluated using multiple performance metrics and visualizations.
 
-![Training Accuracy](images/accuracy.png)
+### 📈 Training Curves
 
-### Training Loss
+Displays the training and validation accuracy/loss over epochs.
 
-![Training Loss](images/loss.png)
+![Training Curves](training_curves.png)
 
-### Confusion Matrix
+---
 
-![Confusion Matrix](images/confusion_matrix.png)
+### 🎯 Sample Predictions
 
-### Sample Prediction
+Shows predictions made by the trained CNN model on unseen facial images.
 
-![Sample Prediction](images/sample_prediction.png)
+![Sample Predictions](sample_predictions.png)
+
+---
+
+### 📊 Confidence Distribution
+
+Illustrates the confidence scores of the model across predictions.
+
+![Confidence Distribution](confidence_distribution.png)
+
+---
+
+### 📉 Confusion Matrix
+
+Visualizes the classification performance for all four classes.
+
+![Confusion Matrix](confusion_matrices.png)
