@@ -25,7 +25,7 @@ This project implements a Convolutional Neural Network (CNN) to classify facial 
 
 The trained model was evaluated using multiple performance metrics and visualizations.
 
-### 📈 Training Curves
+###  Training Curves
 
 Displays the training and validation accuracy/loss over epochs.
 
@@ -33,7 +33,7 @@ Displays the training and validation accuracy/loss over epochs.
 
 ---
 
-### 🎯 Sample Predictions
+###  Sample Predictions
 
 Shows predictions made by the trained CNN model on unseen facial images.
 
@@ -41,7 +41,7 @@ Shows predictions made by the trained CNN model on unseen facial images.
 
 ---
 
-### 📊 Confidence Distribution
+###  Confidence Distribution
 
 Illustrates the confidence scores of the model across predictions.
 
